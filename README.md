@@ -905,3 +905,9 @@ For a manuscript, verify bibliographic metadata against Crossref, PubMed, or the
 PlantCyc/PMN and LOTUS are independent external resources and are not distributed as part of this application. Their inclusion here describes interoperability and does not imply endorsement. Users are responsible for complying with database terms and for the scientific interpretation of results.
 
 **Biosynthetic Plausibility Mapper produces contextual hypotheses. Final metabolite identification remains an experimental and expert-curated decision.**
+
+## License
+
+Biosynthetic Plausibility Mapper is distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+The MIT License applies only to the BPM source code. PlantCyc/Plant Metabolic Network data are not distributed with BPM and remain subject to their respective access and licensing terms.
